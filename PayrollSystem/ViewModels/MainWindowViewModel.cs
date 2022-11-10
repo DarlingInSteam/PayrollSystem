@@ -1,0 +1,1 @@
+﻿using ReactiveUI;namespace PayrollSystem.ViewModels{    public class MainWindowViewModel : ViewModelBase, IScreen    {        public string Greeting => "Welcome to Avalonia!";                public RoutingState Router { get; }    }}

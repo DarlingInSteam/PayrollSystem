@@ -1,0 +1,1 @@
+namespace PayrollSystem.ViewModels;public class FireWorkerViewModel{    }

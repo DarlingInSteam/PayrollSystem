@@ -1,0 +1,1 @@
+﻿using ReactiveUI;namespace PayrollSystem.ViewModels{    public class ViewModelBase : ReactiveObject    {    }}

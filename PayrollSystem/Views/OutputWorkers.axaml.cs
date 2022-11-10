@@ -1,0 +1,1 @@
+using Avalonia;using Avalonia.Controls;using Avalonia.Markup.Xaml;namespace PayrollSystem.Views;public partial class OutputWorkers : UserControl{    public OutputWorkers()    {        InitializeComponent();    }    private void InitializeComponent()    {        AvaloniaXamlLoader.Load(this);    }}
