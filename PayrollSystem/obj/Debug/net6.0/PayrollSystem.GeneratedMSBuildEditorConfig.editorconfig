@@ -28,6 +28,9 @@ build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 [/home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
+[/home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/Views/OutputComissionWorkers.axaml]
+build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
+
 [/home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/Views/OutputWorkers.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 

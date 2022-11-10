@@ -1,1 +1,0 @@
-namespace PayrollSystem.ViewModels;public class OutputWorkerViewModel{    }
