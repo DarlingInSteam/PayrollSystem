@@ -5349,19 +5349,19 @@
     ]
   },
   "packageFolders": {
-    "/home/darlinginsteam/.nuget/packages/": {}
+    "/home/darling/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/darlinginsteam/RiderProjects/PayrollSystem/PayrollSystem/PayrollSystem.csproj",
+      "projectUniqueName": "/home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/PayrollSystem.csproj",
       "projectName": "PayrollSystem",
-      "projectPath": "/home/darlinginsteam/RiderProjects/PayrollSystem/PayrollSystem/PayrollSystem.csproj",
-      "packagesPath": "/home/darlinginsteam/.nuget/packages/",
-      "outputPath": "/home/darlinginsteam/RiderProjects/PayrollSystem/PayrollSystem/obj/",
+      "projectPath": "/home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/PayrollSystem.csproj",
+      "packagesPath": "/home/darling/.nuget/packages/",
+      "outputPath": "/home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/home/darlinginsteam/.nuget/NuGet/NuGet.Config"
+        "/home/darling/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"

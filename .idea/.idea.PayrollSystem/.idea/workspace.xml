@@ -8,29 +8,48 @@
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PayrollSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PayrollSystem/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/ViewModels/AddComissionWageWorkerViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/ViewModels/AddComissionWageWorkerViewModel.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/ViewModels/AddHourlyWageWorkerViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/ViewModels/AddHourlyWageWorkerViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PayrollSystem/Views/AddComissionWageWorker.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/Views/AddComissionWageWorker.axaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PayrollSystem/Views/AddHourlyWageWorker.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/Views/AddHourlyWageWorker.axaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PayrollSystem/Views/FireWorker.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/Views/FireWorker.axaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PayrollSystem/Views/MainWindow.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/Views/MainWindow.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/Views/OutputComissionWorkers.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/Views/OutputComissionWorkers.axaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/PayrollSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/PayrollSystem.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/PayrollSystem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/PayrollSystem.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/Resources.Inputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/Resources.Inputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/original.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/original.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/original.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/original.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/references" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/references" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/resources" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/PayrollSystem.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/PayrollSystem.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/PayrollSystem.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/PayrollSystem.csproj.nuget.g.props" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RESET_MODE" value="HARD" />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f0228cb71e3640cca1ce39483195103994de00/28/522c43d0/Collection`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f0228cb71e3640cca1ce39483195103994de00/f1/876e6755/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/f6ae74fafdb6857a99ccc756ccc5a7fe7656165317fa734333b7e9d6fe087f/X11PlatformThreading.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PayrollSystem/AppViewLocator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PayrollSystem/Models/ComissionWageWorker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PayrollSystem/Models/HourlyWageWorker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/ViewModels/AddComissionWageWorkerViewModel.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PayrollSystem/ViewModels/AddComissionWageWorkerViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/ViewModels/AddComissionWageWorkerViewModel.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PayrollSystem/ViewModels/SimulateWorkViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/Views/AddComissionWageWorker.axaml" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PayrollSystem/Views/AddHourlyWageWorker.axaml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PayrollSystem/Views/AddHourlyWageWorker.axaml.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PayrollSystem/Views/MainWindow.axaml" root0="FORCE_HIGHLIGHTING" />
