@@ -131,3 +131,8 @@
 /home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/obj/Debug/net6.0/ref/PayrollSystem.dll
 /home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/obj/Debug/net6.0/PayrollSystem.pdb
 /home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/obj/Debug/net6.0/PayrollSystem.genruntimeconfig.cache
+/home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/bin/Debug/net6.0/MessageBox.Avalonia.dll
+/home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/bin/Debug/net6.0/AvaloniaEdit.dll
+/home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/bin/Debug/net6.0/Markdown.Avalonia.SyntaxHigh.dll
+/home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/bin/Debug/net6.0/ColorTextBlock.Avalonia.dll
+/home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/bin/Debug/net6.0/Markdown.Avalonia.dll
