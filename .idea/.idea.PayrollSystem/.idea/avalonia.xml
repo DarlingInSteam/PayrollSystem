@@ -10,7 +10,10 @@
         <entry key="Avalonia.NETCoreMVVMApp1/Views/OutputWorkers.axaml" value="Avalonia.NETCoreMVVMApp1/Avalonia.NETCoreMVVMApp1.csproj" />
         <entry key="Avalonia.NETCoreMVVMApp1/Views/SimulateWork.axaml" value="Avalonia.NETCoreMVVMApp1/Avalonia.NETCoreMVVMApp1.csproj" />
         <entry key="PayrollSystem/Views/AddComissionWageWorker.axaml" value="PayrollSystem/PayrollSystem.csproj" />
+        <entry key="PayrollSystem/Views/AddHourlyWageWorker.axaml" value="PayrollSystem/PayrollSystem.csproj" />
         <entry key="PayrollSystem/Views/FireWorker.axaml" value="PayrollSystem/PayrollSystem.csproj" />
+        <entry key="PayrollSystem/Views/MainWindow.axaml" value="PayrollSystem/PayrollSystem.csproj" />
+        <entry key="PayrollSystem/Views/OutputComissionWorkers.axaml" value="PayrollSystem/PayrollSystem.csproj" />
         <entry key="PayrollSystem/Views/OutputWorkers.axaml" value="PayrollSystem/PayrollSystem.csproj" />
         <entry key="PayrollSystem/Views/SimulateWork.axaml" value="PayrollSystem/PayrollSystem.csproj" />
       </map>

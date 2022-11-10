@@ -4,13 +4,43 @@
     <projectFile>Avalonia.NETCoreMVVMApp1/Avalonia.NETCoreMVVMApp1.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf64c192-eb51-4128-a0a1-7bdf9d053bfd" name="Changes" comment="" />
+    <list default="true" id="cf64c192-eb51-4128-a0a1-7bdf9d053bfd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Avalonia.NETCoreMVVMApp1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Avalonia.NETCoreMVVMApp1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PayrollSystem/.idea/avalonia.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PayrollSystem/.idea/avalonia.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PayrollSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PayrollSystem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/ViewModels/AddComissionWageWorkerViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/ViewModels/AddComissionWageWorkerViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/ViewModels/AddHourlyWageWorkerViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/ViewModels/AddHourlyWageWorkerViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/ViewModels/FireWorkerViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/ViewModels/FireWorkerViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/ViewModels/MainWindowViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/ViewModels/MainWindowViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/ViewModels/SimulateWorkViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/ViewModels/SimulateWorkViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/ViewModels/ViewModelBase.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/ViewModels/ViewModelBase.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/Views/AddComissionWageWorker.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/Views/AddComissionWageWorker.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/Views/AddHourlyWageWorker.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/Views/AddHourlyWageWorker.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/Views/FireWorker.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/Views/FireWorker.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/Views/FireWorker.axaml.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/Views/FireWorker.axaml.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/Views/MainWindow.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/Views/MainWindow.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/Views/OutputComissionWorkers.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/Views/OutputComissionWorkers.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/Views/OutputWorkers.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/Views/OutputWorkers.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/Views/SimulateWork.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/Views/SimulateWork.axaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/PayrollSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/PayrollSystem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/PayrollSystem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/PayrollSystem.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ref/PayrollSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ref/PayrollSystem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/original.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/original.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/original.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/original.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/resources" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/resources" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/ref/PayrollSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/ref/PayrollSystem.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f0228cb71e3640cca1ce39483195103994de00/28/522c43d0/Collection`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f0228cb71e3640cca1ce39483195103994de00/f1/876e6755/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/f6ae74fafdb6857a99ccc756ccc5a7fe7656165317fa734333b7e9d6fe087f/X11PlatformThreading.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PayrollSystem/AppViewLocator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PayrollSystem/Models/ComissionWageWorker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PayrollSystem/Models/HourlyWageWorker.cs" root0="FORCE_HIGHLIGHTING" />
@@ -30,21 +60,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "PLAIN_TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Avalonia.NETCoreMVVMApp1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -74,13 +104,26 @@
       <option name="presentableId" value="Default" />
       <updated>1668088430252</updated>
       <workItem from="1668088435328" duration="5469000" />
+      <workItem from="1668104755155" duration="4785000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>

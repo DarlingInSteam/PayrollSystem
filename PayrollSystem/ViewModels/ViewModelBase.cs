@@ -1,1 +1,1 @@
-﻿using ReactiveUI;namespace PayrollSystem.ViewModels{    public class ViewModelBase : ReactiveObject    {    }}
+﻿using ReactiveUI;namespace PayrollSystem.ViewModels{    public class ViewModelBase : ReactiveObject    {            }}
