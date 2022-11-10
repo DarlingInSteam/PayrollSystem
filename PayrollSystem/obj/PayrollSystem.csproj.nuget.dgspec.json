@@ -40,23 +40,39 @@
           "dependencies": {
             "Avalonia": {
               "target": "Package",
-              "version": "[0.10.18, )"
+              "version": "[11.0.0-preview3, )"
             },
             "Avalonia.Desktop": {
               "target": "Package",
-              "version": "[0.10.18, )"
+              "version": "[11.0.0-preview3, )"
             },
             "Avalonia.Diagnostics": {
               "target": "Package",
-              "version": "[0.10.18, )"
+              "version": "[11.0.0-preview3, )"
             },
             "Avalonia.ReactiveUI": {
               "target": "Package",
-              "version": "[0.10.18, )"
+              "version": "[11.0.0-preview3, )"
+            },
+            "Avalonia.ThemeManager": {
+              "target": "Package",
+              "version": "[11.0.0-preview3, )"
+            },
+            "Avalonia.Themes.Fluent": {
+              "target": "Package",
+              "version": "[11.0.0-preview3, )"
+            },
+            "Avalonia.Themes.Simple": {
+              "target": "Package",
+              "version": "[11.0.0-preview3, )"
+            },
+            "Citrus.Avalonia": {
+              "target": "Package",
+              "version": "[1.6.1, )"
             },
             "MessageBox.Avalonia": {
               "target": "Package",
-              "version": "[2.1.0, )"
+              "version": "[2.3.1-prev2, )"
             },
             "XamlNameReferenceGenerator": {
               "target": "Package",

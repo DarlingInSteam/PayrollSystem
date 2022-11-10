@@ -6,12 +6,115 @@
   <component name="ChangeListManager">
     <list default="true" id="cf64c192-eb51-4128-a0a1-7bdf9d053bfd" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PayrollSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PayrollSystem/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PayrollSystem/Assets/avalonia-logo.ico" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/Assets/avalonia-logo.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/App.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/App.axaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/PayrollSystem.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/PayrollSystem.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/ViewModels/AddComissionWageWorkerViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/ViewModels/AddComissionWageWorkerViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/ViewModels/AddHourlyWageWorkerViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/ViewModels/AddHourlyWageWorkerViewModel.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Animation.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Base.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Base.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Controls.DataGrid.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Controls.DataGrid.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Controls.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Controls.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.DesignerSupport.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.DesignerSupport.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Desktop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Desktop.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.DesktopRuntime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Diagnostics.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Diagnostics.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Dialogs.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Dialogs.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.FreeDesktop.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.FreeDesktop.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Input.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Interactivity.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Layout.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Markup.Xaml.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Markup.Xaml.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Markup.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Markup.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.MicroCom.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.MicroCom.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Native.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Native.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.OpenGL.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.OpenGL.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.ReactiveUI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.ReactiveUI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Remote.Protocol.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Remote.Protocol.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Skia.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Skia.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Styling.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Themes.Default.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Themes.Fluent.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Themes.Fluent.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Visuals.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Win32.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.Win32.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.X11.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.X11.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Avalonia.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/DynamicData.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/DynamicData.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.Scripting.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Microsoft.CodeAnalysis.CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Microsoft.CodeAnalysis.Scripting.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Microsoft.CodeAnalysis.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Microsoft.Win32.SystemEvents.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/PayrollSystem.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/PayrollSystem.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/PayrollSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/PayrollSystem.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/PayrollSystem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/PayrollSystem.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ReactiveUI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ReactiveUI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/SkiaSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/SkiaSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Splat.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/Splat.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/System.Drawing.Common.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/System.Drawing.Common.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/cs/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/de/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/es/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/fr/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/it/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ja/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ko/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/pl/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/pt-BR/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ref/PayrollSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ref/PayrollSystem.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/ru/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/runtimes/linux-arm/native/libSkiaSharp.so" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/runtimes/linux-arm/native/libSkiaSharp.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/runtimes/linux-arm64/native/libSkiaSharp.so" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/runtimes/linux-arm64/native/libSkiaSharp.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libSkiaSharp.so" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/runtimes/linux-musl-x64/native/libSkiaSharp.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/runtimes/linux-x64/native/libSkiaSharp.so" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/runtimes/linux-x64/native/libSkiaSharp.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/runtimes/osx/native/libAvaloniaNative.dylib" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/runtimes/osx/native/libAvaloniaNative.dylib" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/runtimes/unix/lib/netcoreapp2.0/System.Drawing.Common.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/runtimes/win-arm64/native/libSkiaSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/runtimes/win-arm64/native/libSkiaSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/runtimes/win-x64/native/libSkiaSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/runtimes/win-x64/native/libSkiaSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/runtimes/win-x86/native/libSkiaSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/runtimes/win-x86/native/libSkiaSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.0/Microsoft.Win32.SystemEvents.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/runtimes/win/lib/netcoreapp2.0/System.Drawing.Common.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/tr/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.Scripting.resources.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/original.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/original.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/original.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/original.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/references" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/references" afterDir="false" />
@@ -22,6 +125,7 @@
       <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/ref/PayrollSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/ref/PayrollSystem.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/PayrollSystem.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/PayrollSystem.csproj.nuget.dgspec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/PayrollSystem.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/PayrollSystem.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/PayrollSystem.csproj.nuget.g.targets" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/PayrollSystem.csproj.nuget.g.targets" afterDir="false" />
@@ -42,6 +146,7 @@
     <setting file="file://$PROJECT_DIR$/PayrollSystem/AppViewLocator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PayrollSystem/Models/ComissionWageWorker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PayrollSystem/Models/HourlyWageWorker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/PayrollSystem/ViewModels/AddComissionWageWorkerViewModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PayrollSystem/ViewModels/SimulateWorkViewModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PayrollSystem/Views/AddHourlyWageWorker.axaml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PayrollSystem/Views/AddHourlyWageWorker.axaml.cs" root0="FORCE_HIGHLIGHTING" />
@@ -58,22 +163,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/darling/Изображения/work-from-home.ico",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/darling/Изображения/work-from-home.ico&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
-      "PLAIN_TEXT"
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;PLAIN_TEXT&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="Avalonia.NETCoreMVVMApp1" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -105,7 +210,8 @@
       <workItem from="1668088435328" duration="5469000" />
       <workItem from="1668104755155" duration="6983000" />
       <workItem from="1668112006720" duration="3335000" />
-      <workItem from="1668115356104" duration="640000" />
+      <workItem from="1668115356104" duration="1077000" />
+      <workItem from="1668116446691" duration="1730000" />
     </task>
     <task id="LOCAL-00001" summary="add all">
       <created>1668109788979</created>
@@ -121,7 +227,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668113896763</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add new logo and new detected invalid input">
+      <created>1668116137605</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668116137605</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -144,7 +257,8 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="add all" />
     <MESSAGE value="add detected invalid input numbers" />
-    <option name="LAST_COMMIT_MESSAGE" value="add detected invalid input numbers" />
+    <MESSAGE value="add new logo and new detected invalid input" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new logo and new detected invalid input" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
