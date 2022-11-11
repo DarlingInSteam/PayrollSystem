@@ -4,8 +4,8 @@
     <projectFile>Avalonia.NETCoreMVVMApp1/Avalonia.NETCoreMVVMApp1.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf64c192-eb51-4128-a0a1-7bdf9d053bfd" name="Changes" comment="fix last fix design">
-      <change beforePath="$PROJECT_DIR$/PayrollSystem/Views/SimulateWork.axaml" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/Views/SimulateWork.axaml" afterDir="false" />
+    <list default="true" id="cf64c192-eb51-4128-a0a1-7bdf9d053bfd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PayrollSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PayrollSystem/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +90,7 @@
       <workItem from="1668115356104" duration="1077000" />
       <workItem from="1668116446691" duration="4652000" />
       <workItem from="1668121451189" duration="1458000" />
-      <workItem from="1668124769295" duration="1249000" />
+      <workItem from="1668124769295" duration="2703000" />
     </task>
     <task id="LOCAL-00001" summary="add all">
       <created>1668109788979</created>
@@ -176,7 +176,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668125927984</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="fix simulatework view">
+      <created>1668126265920</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1668126265920</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,7 +216,8 @@
     <MESSAGE value="add last commit" />
     <MESSAGE value="ref code" />
     <MESSAGE value="fix last fix design" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix last fix design" />
+    <MESSAGE value="fix simulatework view" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix simulatework view" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
