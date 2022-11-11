@@ -4,30 +4,16 @@
     <projectFile>Avalonia.NETCoreMVVMApp1/Avalonia.NETCoreMVVMApp1.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf64c192-eb51-4128-a0a1-7bdf9d053bfd" name="Changes" comment="">
+    <list default="true" id="cf64c192-eb51-4128-a0a1-7bdf9d053bfd" name="Changes" comment="fix detected invalid input (equil name)">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PayrollSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PayrollSystem/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/ViewModels/AddComissionWageWorkerViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/ViewModels/AddComissionWageWorkerViewModel.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/ViewModels/AddHourlyWageWorkerViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/ViewModels/AddHourlyWageWorkerViewModel.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PayrollSystem/ViewModels/SimulateWorkViewModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/ViewModels/SimulateWorkViewModel.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/PayrollSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/PayrollSystem.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/PayrollSystem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/bin/Debug/net6.0/PayrollSystem.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/Resources.Inputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/Resources.Inputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/original.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/original.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/original.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/original.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/references" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/Avalonia/references" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.GeneratedMSBuildEditorConfig.editorconfig" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.csproj.AssemblyReference.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.csproj.CoreCompileInputs.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.dll" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.genruntimeconfig.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/Debug/net6.0/PayrollSystem.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/PayrollSystem.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/PayrollSystem.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/PayrollSystem.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/PayrollSystem.csproj.nuget.g.props" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/project.packagespec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PayrollSystem/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/PayrollSystem/obj/rider.project.restore.info" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,6 +28,7 @@
     <setting file="file://$PROJECT_DIR$/PayrollSystem/Models/ComissionWageWorker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PayrollSystem/Models/HourlyWageWorker.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PayrollSystem/ViewModels/AddComissionWageWorkerViewModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///home/darlinginsteam/RiderProjects/PayrollSystem/PayrollSystem/ViewModels/AddComissionWageWorkerViewModel.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PayrollSystem/ViewModels/SimulateWorkViewModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PayrollSystem/Views/AddHourlyWageWorker.axaml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/PayrollSystem/Views/AddHourlyWageWorker.axaml.cs" root0="FORCE_HIGHLIGHTING" />
@@ -201,7 +188,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668126265920</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="fix detected invalid input (equil name)">
+      <created>1668145516456</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1668145516456</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -235,7 +229,27 @@
     <MESSAGE value="ref code" />
     <MESSAGE value="fix last fix design" />
     <MESSAGE value="fix simulatework view" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix simulatework view" />
+    <MESSAGE value="fix detected invalid input (equil name)" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix detected invalid input (equil name)" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/PayrollSystem/ViewModels/AddHourlyWageWorkerViewModel.cs</url>
+          <line>109</line>
+          <properties documentPath="$PROJECT_DIR$/PayrollSystem/ViewModels/AddHourlyWageWorkerViewModel.cs" initialLine="109" containingFunctionPresentation="method 'CheckEquilName'">
+            <startOffsets>
+              <option value="4198" />
+            </startOffsets>
+            <endOffsets>
+              <option value="4230" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
