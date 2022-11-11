@@ -11,28 +11,28 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = PayrollSystem
-build_property.ProjectDir = /home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/
+build_property.ProjectDir = /home/darlinginsteam/RiderProjects/PayrollSystem/PayrollSystem/
 
-[/home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/App.axaml]
+[/home/darlinginsteam/RiderProjects/PayrollSystem/PayrollSystem/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/Views/AddComissionWageWorker.axaml]
+[/home/darlinginsteam/RiderProjects/PayrollSystem/PayrollSystem/Views/AddComissionWageWorker.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/Views/AddHourlyWageWorker.axaml]
+[/home/darlinginsteam/RiderProjects/PayrollSystem/PayrollSystem/Views/AddHourlyWageWorker.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/Views/FireWorker.axaml]
+[/home/darlinginsteam/RiderProjects/PayrollSystem/PayrollSystem/Views/FireWorker.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/Views/MainWindow.axaml]
+[/home/darlinginsteam/RiderProjects/PayrollSystem/PayrollSystem/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/Views/OutputComissionWorkers.axaml]
+[/home/darlinginsteam/RiderProjects/PayrollSystem/PayrollSystem/Views/OutputComissionWorkers.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/Views/OutputWorkers.axaml]
+[/home/darlinginsteam/RiderProjects/PayrollSystem/PayrollSystem/Views/OutputWorkers.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[/home/darling/RiderProjects/Avalonia.NETCoreMVVMApp1/PayrollSystem/Views/SimulateWork.axaml]
+[/home/darlinginsteam/RiderProjects/PayrollSystem/PayrollSystem/Views/SimulateWork.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
